@@ -2,14 +2,16 @@
 This is an easily-to-use tool for users to reconstruction reference panels of 1000G, and to investigate the imputation accuracy changes pattern for a particular population of interest. Note that the Bcftools and Minimac3 are required.
 
 Use the follow command to download: 
-  sudo git clone https://github.com/Abyss-bai/reference-panel-reconstruction.git
+
+  	sudo git clone https://github.com/Abyss-bai/reference-panel-reconstruction.git
 
 Please run the follow command to check the helpdoc first:
-  sudo ./reference_panel_re-construction.py -H
+
+	sudo ./reference_panel_re-construction.py -H
 
 And this will output a flag list, User can set the study population, diverse populations, step size and adding times with these flags:
  	
-  -H/-h	Show this help doc.  
+ 	-H/-h	Show this help doc.  
 	
 	-P	The three-uppercase-letter abbreviation 
 		of 1000G population that specific to the 
