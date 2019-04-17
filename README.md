@@ -1,5 +1,5 @@
 # reference-panel-reconstruction
-This is an easily-to-use tool for users to reconstruction reference panels of 1000G, and to investigate the imputation accuracy changes pattern for a particular population of interest. Note that the Bcftools and Minimac3 are required.
+This is an easily-to-use tool for users to reconstruct imputation reference panels of 1000G, and to investigate the imputation accuracy changes pattern for a particular population of interest. Note that the Bcftools and Minimac3 are required.
 
 Use the follow command to download: 
 
@@ -33,4 +33,4 @@ And this will output a flag list, User can set the study population, diverse pop
 	[-T]	The diversity-samples-adding (recursively) 
 		times. The defult value is twelve.
  
-An example.sh file is given, and this will output a series file of sample ID of 1000G, and a "Imputation_Template.sh" script. The sample ID files correspond to the composition of new reference panels. For the next reference panel contruction and imputation, please follow the instruction in Imputation_Template.sh and modify it. 
+An example.sh file is given, and this will output a series file of sample ID of 1000G and a "Imputation_Template.sh" script. The sample ID files correspond to the composition of new reference panels. For the next reference panel contruction and imputation, please follow the instruction in Imputation_Template.sh and modify it. 
