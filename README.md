@@ -7,7 +7,7 @@ Use the follow command to download:
 
 Please run the follow command to check the helpdoc first:
 
-	sudo ./reference_panel_re-construction.py -H
+	python ./reference_panel_re-construction.py -H
 
 And this will output a flag list, User can set the study population, diverse populations, step size and adding times with these flags:
  	
