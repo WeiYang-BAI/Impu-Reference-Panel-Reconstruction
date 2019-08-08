@@ -1,4 +1,4 @@
-# reference-panel-reconstruction
+# Reference-Panel-Reconstruction
 This is an easily-to-use tool for users to reconstruct imputation reference panels of 1000G, and to investigate the imputation accuracy changes pattern for a particular population of interest. Note that the Bcftools and Minimac3 are required.
 
 Use the follow command to download: 
