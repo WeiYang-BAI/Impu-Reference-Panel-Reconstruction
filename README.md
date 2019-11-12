@@ -3,7 +3,7 @@ This is an easily-to-use tool for users to reconstruct imputation reference pane
 
 Use the follow command to download: 
 
-  	sudo git clone https://github.com/Abyss-bai/reference-panel-reconstruction.git
+  	sudo git clone https://github.com/WeiYang-BAI/Impu-Reference-Panel-Reconstruction.git
 
 Please run the follow command to check the helpdoc first:
 
